@@ -7,9 +7,11 @@ Ther will be a GPS Tag at the beginnig of sampling and after the System is put o
 
 schematic:    Pressure_v12_120121.pdf
 code:         PresSense_v1.ino
+PCB Layout:   Pressure_v12_120121.brd
 
 I recommend using the 3" pressure enclosoure from BlueRobotics
 https://bluerobotics.com/product-category/watertight-enclosures/3-series/
 
 for mounting purposes at 3" BlueRobotics enclosoure see 
 *.stp files
+
